@@ -1,2 +1,2 @@
 # Hangman-Game
-Guess the letters of the word. Make up to 6 wrong guesses to win.
+Guess the letters of the word. Make up to 6 wrong guesses to win. Written in Python.
